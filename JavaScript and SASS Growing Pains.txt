@@ -1,0 +1,44 @@
+<div class="container-fluid">
+<h1 class="text-center red-text">My Time So Far Studying JavaScript and SASS(SCSS syntax)</h1>
+h1{background-color: silver;}
+<p1>Currently I'm proficient in basic HTML5, CSS3, Bootstrap, and jQuery.
+ I'm not really sure how to get preprocessors, libraries, and frameworks
+  to work on Visual Code yet so this is written without them.
+   Anyway, this now makes my fifth week of building projects out of code.
+   Not only did I find it was getting too easy just using what I already knew . . .
+   I found that to get even a basic entry level front end developer job will
+   require more knowledge and skills than I currently have at my disposal. </p1>
+   p1{color: green;}
+  </div>
+  <div class="container-fluid">
+  <p2 class="purple-text">So I decided to delve into SASS and JavaScript. 
+   I figured it'd be freaking hard. No doubt about that. Still, it was rather
+   dumb of me to think JavaScript would 
+   be easier because jQuery is written in it. In some respects that's true if 
+   you consider basic syntax. But the moment you start touching on JavaScript's
+   finer details like variables let alone object oriented programming you'll 
+   see just how wrong I really was. I'm not anywhere near programming yet and
+   this is how things stand. Heh. I'm fine with that. If there were no challenge
+   it wouldn't be fun to conquer anyway. SASS, however, is far easier. It's just
+   a more streamlined version of CSS that gets rid of the traditional repititions
+   you normally see. At the rate I'm going I'll learn the basics of SASS in two 
+   weeks tops. I should get through JavaScript in two months tops.
+   p2{background-color: green;}
+   p2{font-family: Calibri;}
+  </div>
+  <div class="container-fluid">
+    <p3>Once I do, I'll then be capable of not just basic web design but some programming as well. 
+   Then I'll be able create a Code Wars account where I can then spend time solving
+   programming problems rather than just learning a bunch of theory. Granted the 
+   theory helps me know why something works by conceptually deconstructing it
+   for my understanding. But it's not enough if you're not putting it into active,
+   practical use building web pages and writing your own programs. 
+   So when I finish up with SASS I'll drop my plans for the time being to pick up
+   ReactJS and focus everything on JavaScript. Meanwhile I'll be putting the SASS I'll
+   have learned to use in my CodePen projects. Doing that should make it six weeks at 
+   most for me to learn SASS and JavaScript. Then after a few projects integrating
+   both JavaScript and SASS I should be able to land my first freelance job off CodePen.
+   So my hopes and expectations for myself are high because I know I can achieve it.</p3>
+   p3{background-color: red;}
+   p3{font-family: Calibri;}
+  </div>
